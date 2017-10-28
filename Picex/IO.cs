@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Picex
-{//Addtsetgit 
+{
     class IO
     {
         private string path = null;
